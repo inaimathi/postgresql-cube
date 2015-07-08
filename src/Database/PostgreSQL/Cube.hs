@@ -1,3 +1,5 @@
+{-# LANGUAGE OverloadedStrings #-}
+
 module Database.PostgreSQL.Cube (Cube(..))where
 
 import Database.PostgreSQL.Simple.ToField
